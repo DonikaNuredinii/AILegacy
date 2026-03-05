@@ -1,0 +1,2 @@
+CREATE DATABASE legacy_db;
+CREATE DATABASE gateway_db;
